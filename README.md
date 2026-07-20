@@ -35,42 +35,11 @@ This research aims to:
 
 ```
 .
-├── report/
-│   └── Laravel_Lang_Compromise_Analysis.pdf
-│
-├── images/
-│   ├── attack-chain.png
-│   ├── payload-analysis.png
-│   └── timeline.png
+├── Laravel_Lang_Compromise_Analysis.pdf
 │
 └── README.md
 ```
 
----
-
-## Intended Audience
-
-This repository is intended for:
-
-- Cybersecurity students
-- SOC Analysts
-- Incident Responders
-- Threat Hunters
-- Malware Analysts
-- Blue Team professionals
-- Security Researchers
-
----
-
-## Key Learning Outcomes
-
-After reading this report, readers should be able to:
-
-- Understand how software supply chain attacks operate.
-- Recognize common malware delivery techniques in PHP applications.
-- Analyze attacker behavior during repository compromise.
-- Identify indicators associated with malicious package distribution.
-- Apply defensive strategies to reduce supply chain risk.
 
 ---
 
@@ -86,10 +55,6 @@ Any malicious code discussed within the report is presented exclusively for anal
 
 The report references publicly available technical analyses, security advisories, and open-source intelligence related to the Laravel Lang compromise and software supply chain security.
 
----
 
-## Author
-
-**Your Name**
 
 Cybersecurity Research • Malware Analysis • Threat Intelligence • Incident Response
