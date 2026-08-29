@@ -13,6 +13,7 @@ Cybersecurity-Research/
     ├── main                       # Main documentation
     └── Laravel-Lang-Compromise    # Research report and PoC
     └── Postfix-SMTP-Smuggling
+    └── ...
 ```
 
 ## 📄 Research Reports
