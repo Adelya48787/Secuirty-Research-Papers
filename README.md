@@ -1,4 +1,4 @@
-# 🔓 SSE DNS Rebinding via CORS Misconfiguration
+# SSE DNS Rebinding via CORS Misconfiguration
 
 [![CVE](https://img.shields.io/badge/CVE-2026--9739-red?style=for-the-badge)](https://nvd.nist.gov/vuln/detail/cve-2026-9739)
 [![Severity](https://img.shields.io/badge/Severity-High-orange?style=for-the-badge)]()
